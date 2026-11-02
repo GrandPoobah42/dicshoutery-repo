@@ -1,0 +1,6 @@
+{
+  "name": "Dicshoutery - Voice Word Search & Antonym Rush",
+  "description": "A rapid voice-activated and swipe word search game with Oxford & Free Dictionary API vocabulary, continuous microphone recognition, learning facility, and antonym bonus rounds.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
